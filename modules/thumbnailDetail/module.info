@@ -1,0 +1,4 @@
+name = "Thumbnail Detail"
+description = "Adds additional text below a photo/album thumbnail: if a photo, add the tags, if an album adds the total number of photos."
+author_name = "Chumpy"
+version = 1
